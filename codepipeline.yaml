@@ -7,11 +7,9 @@ Parameters:
 
   GitHubOwner:
     Type: String
-<<<<<<< HEAD
+
     Default: Arramreddysindhu #replace with your github username
-=======
-    Default: Arramreddysindhu#replace with your github username
->>>>>>> 2fe77c87008fdeaaa4ba0dc5f6be3fb0fb6dab2c
+    
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
